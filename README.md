@@ -25,3 +25,18 @@ Utilizar a função shape para ver a quantidade de elementos;
 Separar dados para treino e teste;
 Definir a ordem para os números aleatórios;
 Utilizar a função value_counts.
+
+---
+
+Nesse terceiro vamos classifica ultilizando apenas duas colunas/dimenção
+dados projeto com site com horas e preço prever se vai ser finalizado
+podemos ver no grafico como o algoritimo encontrou um reta assim vemos que ele nao é bom para esse conjunto de dados que precisa de uma curva
+
+Trocar valores;
+Usar a biblioteca seaborn;
+Gerar um gráfico com dados do CSV;
+Definir cores no gráfico;
+Gerar gráficos distintos;
+Criação de um algoritmo base;
+Capturar os valores mínimos e máximos.
+Utilizar a função arange do numpy
