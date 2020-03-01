@@ -40,3 +40,10 @@ Gerar gráficos distintos;
 Criação de um algoritmo base;
 Capturar os valores mínimos e máximos.
 Utilizar a função arange do numpy
+
+---
+
+Usar outro algoritmo que nao seja somente linear
+tambem colocar o ramdom do numpy para semppre ser fixo e nao mudar o valor toda vez que roda
+
+Utilizar o módulo Support Vector Machine; Gerar valores randômicos com o módulo SVC; Utilizar o módulo Standard Scale.
