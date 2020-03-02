@@ -47,3 +47,11 @@ Usar outro algoritmo que nao seja somente linear
 tambem colocar o ramdom do numpy para semppre ser fixo e nao mudar o valor toda vez que roda
 
 Utilizar o módulo Support Vector Machine; Gerar valores randômicos com o módulo SVC; Utilizar o módulo Standard Scale.
+
+---
+
+Dummy classifiers e árvore de decisão
+outro uso de dados de vendas de carros com milhas ano preço e se foi vendido ou nao, compara os modelos Dummy classifiers e SVC e TREE
+https://scikit-learn.org/stable/modules/generated/sklearn.dummy.DummyClassifier.html
+
+Alterar dados em colunas; Utilizar o módulo datetime; Criar colunas; Remover colunas e linhas; Utilizar o módulo dummie para gerar colunas; Utilizar o módulo graphviz para gerar gráficos; Definir propriedades gráficas na árvore de decisão.
